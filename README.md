@@ -6,13 +6,13 @@ By using HTML, JavaScript, CSS, PHP, SQL, together with the XAMPP to accomplish 
 
 Database(wdt092021.sql) is Provided in 'Others' folders.
 
-Log In As Customers
-Username = Radiant
-Password = 123
+Log In As Customers-
+Username = Radiant.
+Password = 123.
 
-Sign In As Verified Driver
-Username = Radiant
-Password = 123
+Sign In As Verified Driver-
+Username = Radiant.
+Password = 123.
 
 
 Code Written By: Tee Chor Yang (tp061339@mail.apu.edu.my), Lee Jia Qian (tp061863@mail.apu.edu.my)
